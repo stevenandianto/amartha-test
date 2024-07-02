@@ -37,22 +37,32 @@ amartha-test/
 
 ## Unit Test
 To run the unit testing use the command
-go test ./...
+```go
+go test ./... </code>
+```
 
 ## Installation
 
 ### Step 1
+```go
 git clone https://github.com/stevenandianto/amartha-test.git
+```
 
 ### Step 2
+```go
 cd amartha-test
+```
 
 ### Step 3
+```go
 go run main.go
+```
 
 or
 
+```go 
 ./amartha-test
+```
 
 
 
